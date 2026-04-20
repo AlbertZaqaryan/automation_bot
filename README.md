@@ -1,5 +1,4 @@
 
-````md
 # 🌦️ Telegram Weather Bot (Selenium + PyTelegramBotAPI)
 
 Simple Telegram bot that gets weather data using Selenium and sends it to users.
